@@ -1,0 +1,1 @@
+Zrzuty ekranu zostały wrzucone do folderu zrzuty_ekranu i ponumerowane chronologicznie według kolejności wykonywania zadań, dodatkowo klucze zostały zacenzurowane ze względu na to, że repozytorium jest publiczne.
